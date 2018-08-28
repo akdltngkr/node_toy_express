@@ -1,5 +1,5 @@
-var express = require('express');
-var app = express();
+var express = require('express'); // import express
+var app = express(); // express 객체 생성
 
 app.get('/', function (req, res){
   res.send('안녕');
