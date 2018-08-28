@@ -1,0 +1,19 @@
+{
+  "name": "node_toy_express",
+  "version": "1.0.0",
+  "description": "playing with node express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_toy_express"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "akdltngkr",
+  "license": "MIT"
+}
